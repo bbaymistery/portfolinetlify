@@ -26,6 +26,9 @@
 .nav__list {
     display: flex !important;
     column-gap: 2rem !important;
+    display: flex !important;
+    flex-wrap: wrap !important;
+    justify-content: space-evenly !important;
 }
 
 .nav__link {
