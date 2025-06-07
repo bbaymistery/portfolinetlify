@@ -82,6 +82,7 @@
     /* Show Menu */
     .show-menu {
         bottom: 0;
+        overflow-y: scroll;
     }
 
     .nav__list {
