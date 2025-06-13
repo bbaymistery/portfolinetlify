@@ -1,5 +1,4 @@
 import "./about.css";
-import AboutImg from "../../assets/elgun2.jpg";
 import CV from "../../assets/elgun.pdf";
 import Info from "./Info";
 
