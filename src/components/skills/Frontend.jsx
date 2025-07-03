@@ -17,6 +17,7 @@ const Frontend = () => {
     { name: "GraphQL", level: "Intermediate" },
     { name: "MaterialUI", level: "Intermediate" },
     { name: "Redux/Toolkit", level: "Intermediate" },
+    { name: "React Native ", level: "Intermediate" },
   ];
 
   // 2'ye bölmek için slice
