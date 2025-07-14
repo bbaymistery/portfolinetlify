@@ -18,6 +18,9 @@ const Frontend = () => {
     { name: "MaterialUI", level: "Intermediate" },
     { name: "Redux/Toolkit", level: "Intermediate" },
     { name: "React Native ", level: "Intermediate" },
+    { name: "Cypress/Jest ", level: "Intermediate" },
+    { name: "WCAG (Web Content Accessibility Guidelines) ", level: "Intermediate" },
+     
   ];
 
   // 2'ye bölmek için slice
